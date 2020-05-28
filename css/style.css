@@ -1,0 +1,32 @@
+.navbar{
+	
+	background-color:#d3d3d3;
+	margin-bottom:0;
+	border:4px black;
+}
+#chicken-tile{
+	background-color:#d3d3d3;
+	padding:10,10,10;
+}
+#beef-tile{
+	background-color:#d3d3d3;
+}
+#sushi-tile{
+	background-color:#d3d3d3;
+}
+p{
+	padding:10px 10px 10px;
+}
+h2{
+	margin-top:0px;
+}
+navbar-brand{
+	text-overflow:ellipsis;
+	overflow:hidden;
+}
+h3{
+	padding-top:25px;
+}
+#menu{
+	padding-top:20px;
+}
